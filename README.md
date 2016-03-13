@@ -1,5 +1,5 @@
 # frontend-nano-degree-p3
-:Frogger Emulator
+# Frogger Emulator
 This is a basic emulator of a frogger like game with ladybugs as the obstacles.
 ## Installation
 Simple open the index.html file in a browser or (usually) double click index.html.
